@@ -1,0 +1,10 @@
+body {
+  background-color: antiquewhite;
+}
+
+#network {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #f00;
+  border-radius: 20px;
+}

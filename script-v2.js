@@ -39,23 +39,6 @@ async function createNetwork() {
         OT: { color: { background: "#90EE90" }, shape: "triangle" },
         FibreEnd: { color: { background: "#D3D3D3" }, shape: "dot" },
       },
-      // nodes: {
-      //   shape: "dot",
-      //   scaling: {
-      //     min: 10,
-      //     max: 30,
-      //     label: {
-      //       min: 8,
-      //       max: 30,
-      //       drawThreshold: 12,
-      //       maxVisible: 20,
-      //     },
-      //   },
-      //   font: {
-      //     size: 12,
-      //     face: "Tahoma",
-      //   },
-      // },
 
       edges: {
         arrows: "to",
