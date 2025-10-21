@@ -1,0 +1,2177 @@
+{
+  "splice_closures": [
+    {
+      "OBJECTID": "1",
+      "enc_type": "5",
+      "label": "DINC_000_PT",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "2",
+      "enc_type": "3",
+      "label": "DINC_001_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "3",
+      "enc_type": "3",
+      "label": "DINC_002_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "4",
+      "enc_type": "3",
+      "label": "DINC_003_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "5",
+      "enc_type": "3",
+      "label": "DINC_004_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "6",
+      "enc_type": "3",
+      "label": "DINC_005_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "7",
+      "enc_type": "3",
+      "label": "DINC_006_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "8",
+      "enc_type": "3",
+      "label": "DINC_007_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "9",
+      "enc_type": "3",
+      "label": "DINC_008_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "10",
+      "enc_type": "3",
+      "label": "DINC_009_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "11",
+      "enc_type": "3",
+      "label": "DINC_010_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "12",
+      "enc_type": "3",
+      "label": "DINC_011_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "13",
+      "enc_type": "3",
+      "label": "DINC_012_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "14",
+      "enc_type": "3",
+      "label": "DINC_013_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "15",
+      "enc_type": "3",
+      "label": "DINC_014_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "16",
+      "enc_type": "3",
+      "label": "DINC_015_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "17",
+      "enc_type": "3",
+      "label": "DINC_016_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "18",
+      "enc_type": "3",
+      "label": "DINC_017_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "19",
+      "enc_type": "3",
+      "label": "DINC_018_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "20",
+      "enc_type": "3",
+      "label": "DINC_019_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "21",
+      "enc_type": "3",
+      "label": "DINC_020_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "22",
+      "enc_type": "3",
+      "label": "DINC_021_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "23",
+      "enc_type": "3",
+      "label": "DINC_022_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "24",
+      "enc_type": "3",
+      "label": "DINC_023_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "25",
+      "enc_type": "3",
+      "label": "DINC_024_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "26",
+      "enc_type": "3",
+      "label": "DINC_025_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "27",
+      "enc_type": "3",
+      "label": "DINC_026_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "28",
+      "enc_type": "3",
+      "label": "DINC_027_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "29",
+      "enc_type": "3",
+      "label": "DINC_028_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "30",
+      "enc_type": "3",
+      "label": "DINC_029_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "31",
+      "enc_type": "3",
+      "label": "DINC_030_SP",
+      "olt_name": "210"
+    },
+    { "OBJECTID": "32", "enc_type": "3", "label": "4720", "olt_name": "209" },
+    {
+      "OBJECTID": "33",
+      "enc_type": "3",
+      "label": "DINC_210_TRO07",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "34",
+      "enc_type": "3",
+      "label": "DINC_031_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "35",
+      "enc_type": "3",
+      "label": "DINC_032_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "36",
+      "enc_type": "3",
+      "label": "DINC_033_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "37",
+      "enc_type": "3",
+      "label": "DINC_034_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "38",
+      "enc_type": "3",
+      "label": "DINC_035_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "39",
+      "enc_type": "3",
+      "label": "DINC_036_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "40",
+      "enc_type": "3",
+      "label": "DINC_037_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "41",
+      "enc_type": "3",
+      "label": "DINC_038_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "42",
+      "enc_type": "3",
+      "label": "DINC_039_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "43",
+      "enc_type": "3",
+      "label": "DINC_040_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "44",
+      "enc_type": "3",
+      "label": "DINC_041_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "45",
+      "enc_type": "3",
+      "label": "DINC_042_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "46",
+      "enc_type": "3",
+      "label": "DINC_043_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "47",
+      "enc_type": "3",
+      "label": "DINC_044_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "48",
+      "enc_type": "3",
+      "label": "DINC_045_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "49",
+      "enc_type": "3",
+      "label": "DINC_046_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "50",
+      "enc_type": "3",
+      "label": "DINC_047_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "51",
+      "enc_type": "3",
+      "label": "DINC_048_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "52",
+      "enc_type": "3",
+      "label": "DINC_049_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "53",
+      "enc_type": "3",
+      "label": "DINC_050_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "54",
+      "enc_type": "3",
+      "label": "DINC_051_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "55",
+      "enc_type": "3",
+      "label": "DINC_052_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "56",
+      "enc_type": "3",
+      "label": "DINC_053_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "57",
+      "enc_type": "3",
+      "label": "DINC_054_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "58",
+      "enc_type": "3",
+      "label": "DINC_055_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "59",
+      "enc_type": "3",
+      "label": "DINC_056_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "60",
+      "enc_type": "3",
+      "label": "DINC_057_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "61",
+      "enc_type": "3",
+      "label": "DINC_058_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "62",
+      "enc_type": "3",
+      "label": "DINC_059_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "63",
+      "enc_type": "3",
+      "label": "DINC_060_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "64",
+      "enc_type": "3",
+      "label": "DINC_061_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "65",
+      "enc_type": "3",
+      "label": "DINC_062_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "66",
+      "enc_type": "3",
+      "label": "DINC_063_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "67",
+      "enc_type": "3",
+      "label": "DINC_064_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "68",
+      "enc_type": "3",
+      "label": "DINC_065_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "69",
+      "enc_type": "3",
+      "label": "DINC_066_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "70",
+      "enc_type": "3",
+      "label": "DINC_067_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "71",
+      "enc_type": "3",
+      "label": "DINC_068_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "72",
+      "enc_type": "3",
+      "label": "DINC_069_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "73",
+      "enc_type": "3",
+      "label": "DINC_070_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "74",
+      "enc_type": "3",
+      "label": "DINC_071_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "75",
+      "enc_type": "3",
+      "label": "DINC_072_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "76",
+      "enc_type": "3",
+      "label": "DINC_073_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "77",
+      "enc_type": "3",
+      "label": "DINC_074_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "78",
+      "enc_type": "3",
+      "label": "DINC_075_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "79",
+      "enc_type": "3",
+      "label": "DINC_076_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "80",
+      "enc_type": "3",
+      "label": "DINC_077_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "81",
+      "enc_type": "3",
+      "label": "DINC_078_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "82",
+      "enc_type": "3",
+      "label": "DINC_079_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "83",
+      "enc_type": "3",
+      "label": "DINC_080_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "84",
+      "enc_type": "3",
+      "label": "DINC_081_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "85",
+      "enc_type": "3",
+      "label": "DINC_082_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "86",
+      "enc_type": "3",
+      "label": "DINC_083_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "87",
+      "enc_type": "3",
+      "label": "DINC_084_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "88",
+      "enc_type": "3",
+      "label": "DINC_085_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "89",
+      "enc_type": "3",
+      "label": "DINC_086_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "90",
+      "enc_type": "3",
+      "label": "DINC_087_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "91",
+      "enc_type": "3",
+      "label": "DINC_088_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "92",
+      "enc_type": "3",
+      "label": "DINC_089_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "93",
+      "enc_type": "3",
+      "label": "DINC_090_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "94",
+      "enc_type": "3",
+      "label": "DINC_091_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "95",
+      "enc_type": "3",
+      "label": "DINC_092_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "96",
+      "enc_type": "3",
+      "label": "DINC_093_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "97",
+      "enc_type": "3",
+      "label": "DINC_094_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "98",
+      "enc_type": "3",
+      "label": "DINC_095_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "99",
+      "enc_type": "3",
+      "label": "DINC_096_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "100",
+      "enc_type": "3",
+      "label": "DINC_097_SP",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "101",
+      "enc_type": "3",
+      "label": "DINC_098_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "102",
+      "enc_type": "3",
+      "label": "DINC_099_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "103",
+      "enc_type": "3",
+      "label": "DINC_100_PT",
+      "olt_name": "014"
+    }
+  ],
+  "feeder_cables": [
+    {
+      "OBJECTID": "1",
+      "label": "DINC_000_PT-DINC_001_SP",
+      "from": "DINC_000_PT",
+      "to": "DINC_001_SP"
+    },
+    {
+      "OBJECTID": "2",
+      "label": "DINC_001_SP-DINC_002_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_002_SP"
+    },
+    {
+      "OBJECTID": "3",
+      "label": "DINC_002_SP-DINC_003_SP",
+      "from": "DINC_002_SP",
+      "to": "DINC_003_SP"
+    },
+    {
+      "OBJECTID": "4",
+      "label": "DINC_001_SP-DINC_004_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_004_SP"
+    },
+    {
+      "OBJECTID": "5",
+      "label": "DINC_004_SP-DINC_005_SP",
+      "from": "DINC_004_SP",
+      "to": "DINC_005_SP"
+    },
+    {
+      "OBJECTID": "6",
+      "label": "DINC_005_SP-DINC_006_SP",
+      "from": "DINC_005_SP",
+      "to": "DINC_006_SP"
+    },
+    {
+      "OBJECTID": "7",
+      "label": "DINC_001_SP-DINC_007_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_007_SP"
+    },
+    {
+      "OBJECTID": "8",
+      "label": "DINC_007_SP-DINC_008_SP",
+      "from": "DINC_007_SP",
+      "to": "DINC_008_SP"
+    },
+    {
+      "OBJECTID": "9",
+      "label": "DINC_007_SP-DINC_009_SP",
+      "from": "DINC_007_SP",
+      "to": "DINC_009_SP"
+    },
+    {
+      "OBJECTID": "10",
+      "label": "DINC_001_SP-DINC_010_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_010_SP"
+    },
+    {
+      "OBJECTID": "11",
+      "label": "DINC_010_SP-DINC_011_SP",
+      "from": "DINC_010_SP",
+      "to": "DINC_011_SP"
+    },
+    {
+      "OBJECTID": "12",
+      "label": "DINC_011_SP-DINC_012_SP",
+      "from": "DINC_011_SP",
+      "to": "DINC_012_SP"
+    },
+    {
+      "OBJECTID": "13",
+      "label": "DINC_003_SP-DINC_013_SP",
+      "from": "DINC_003_SP",
+      "to": "DINC_013_SP"
+    },
+    {
+      "OBJECTID": "14",
+      "label": "DINC_003_SP-DINC_014_SP",
+      "from": "DINC_003_SP",
+      "to": "DINC_014_SP"
+    },
+    {
+      "OBJECTID": "15",
+      "label": "DINC_003_SP-DINC_015_SP",
+      "from": "DINC_003_SP",
+      "to": "DINC_015_SP"
+    },
+    {
+      "OBJECTID": "16",
+      "label": "DINC_005_SP-DINC_016_SP",
+      "from": "DINC_005_SP",
+      "to": "DINC_016_SP"
+    },
+    {
+      "OBJECTID": "17",
+      "label": "DINC_005_SP-DINC_017_SP",
+      "from": "DINC_005_SP",
+      "to": "DINC_017_SP"
+    },
+    {
+      "OBJECTID": "18",
+      "label": "DINC_007_SP-DINC_018_SP",
+      "from": "DINC_007_SP",
+      "to": "DINC_018_SP"
+    },
+    {
+      "OBJECTID": "19",
+      "label": "DINC_008_SP-DINC_019_SP",
+      "from": "DINC_008_SP",
+      "to": "DINC_019_SP"
+    },
+    {
+      "OBJECTID": "20",
+      "label": "DINC_008_SP-DINC_020_SP",
+      "from": "DINC_008_SP",
+      "to": "DINC_020_SP"
+    },
+    {
+      "OBJECTID": "21",
+      "label": "DINC_008_SP-DINC_021_SP",
+      "from": "DINC_008_SP",
+      "to": "DINC_021_SP"
+    },
+    {
+      "OBJECTID": "22",
+      "label": "DINC_021_SP-DINC_022_SP",
+      "from": "DINC_021_SP",
+      "to": "DINC_022_SP"
+    },
+    {
+      "OBJECTID": "23",
+      "label": "DINC_022_SP-DINC_023_SP",
+      "from": "DINC_022_SP",
+      "to": "DINC_023_SP"
+    },
+    {
+      "OBJECTID": "24",
+      "label": "DINC_023_SP-DINC_024_SP",
+      "from": "DINC_023_SP",
+      "to": "DINC_024_SP"
+    },
+    {
+      "OBJECTID": "25",
+      "label": "DINC_024_SP-DINC_025_SP",
+      "from": "DINC_024_SP",
+      "to": "DINC_025_SP"
+    },
+    {
+      "OBJECTID": "26",
+      "label": "DINC_004_SP-DINC_026_SP",
+      "from": "DINC_004_SP",
+      "to": "DINC_026_SP"
+    },
+    {
+      "OBJECTID": "27",
+      "label": "DINC_026_SP-DINC_027_SP",
+      "from": "DINC_026_SP",
+      "to": "DINC_027_SP"
+    },
+    {
+      "OBJECTID": "28",
+      "label": "DINC_004_SP-DINC_028_SP",
+      "from": "DINC_004_SP",
+      "to": "DINC_028_SP"
+    },
+    {
+      "OBJECTID": "29",
+      "label": "DINC_028_SP-DINC_029_SP",
+      "from": "DINC_028_SP",
+      "to": "DINC_029_SP"
+    },
+    {
+      "OBJECTID": "30",
+      "label": "DINC_028_SP-DINC_030_SP",
+      "from": "DINC_028_SP",
+      "to": "DINC_030_SP"
+    },
+    {
+      "OBJECTID": "31",
+      "label": "DINC_000_PT-4720",
+      "from": "DINC_000_PT",
+      "to": "4720"
+    },
+    {
+      "OBJECTID": "32",
+      "label": "DINC_000_PT-DINC_210_TRO07",
+      "from": "DINC_000_PT",
+      "to": "DINC_210_TRO07"
+    },
+    {
+      "OBJECTID": "33",
+      "label": "DINC_012_SP-DINC_031_SP",
+      "from": "DINC_012_SP",
+      "to": "DINC_031_SP"
+    },
+    {
+      "OBJECTID": "34",
+      "label": "DINC_031_SP-DINC_032_SP",
+      "from": "DINC_031_SP",
+      "to": "DINC_032_SP"
+    },
+    {
+      "OBJECTID": "35",
+      "label": "DINC_032_SP-DINC_033_SP",
+      "from": "DINC_032_SP",
+      "to": "DINC_033_SP"
+    },
+    {
+      "OBJECTID": "36",
+      "label": "DINC_033_SP-DINC_034_SP",
+      "from": "DINC_033_SP",
+      "to": "DINC_034_SP"
+    },
+    {
+      "OBJECTID": "37",
+      "label": "DINC_034_SP-DINC_035_SP",
+      "from": "DINC_034_SP",
+      "to": "DINC_035_SP"
+    },
+    {
+      "OBJECTID": "38",
+      "label": "DINC_035_SP-DINC_036_SP",
+      "from": "DINC_035_SP",
+      "to": "DINC_036_SP"
+    },
+    {
+      "OBJECTID": "39",
+      "label": "DINC_036_SP-DINC_037_SP",
+      "from": "DINC_036_SP",
+      "to": "DINC_037_SP"
+    },
+    {
+      "OBJECTID": "40",
+      "label": "DINC_009_SP-DINC_038_SP",
+      "from": "DINC_009_SP",
+      "to": "DINC_038_SP"
+    },
+    {
+      "OBJECTID": "41",
+      "label": "DINC_038_SP-DINC_039_SP",
+      "from": "DINC_038_SP",
+      "to": "DINC_039_SP"
+    },
+    {
+      "OBJECTID": "42",
+      "label": "DINC_039_SP-DINC_040_SP",
+      "from": "DINC_039_SP",
+      "to": "DINC_040_SP"
+    },
+    {
+      "OBJECTID": "43",
+      "label": "DINC_040_SP-DINC_041_SP",
+      "from": "DINC_040_SP",
+      "to": "DINC_041_SP"
+    },
+    {
+      "OBJECTID": "44",
+      "label": "DINC_041_SP-DINC_042_SP",
+      "from": "DINC_041_SP",
+      "to": "DINC_042_SP"
+    },
+    {
+      "OBJECTID": "45",
+      "label": "DINC_042_SP-DINC_043_SP",
+      "from": "DINC_042_SP",
+      "to": "DINC_043_SP"
+    },
+    {
+      "OBJECTID": "46",
+      "label": "DINC_043_SP-DINC_044_SP",
+      "from": "DINC_043_SP",
+      "to": "DINC_044_SP"
+    },
+    {
+      "OBJECTID": "47",
+      "label": "DINC_044_SP-DINC_045_SP",
+      "from": "DINC_044_SP",
+      "to": "DINC_045_SP"
+    },
+    {
+      "OBJECTID": "48",
+      "label": "DINC_045_SP-DINC_046_SP",
+      "from": "DINC_045_SP",
+      "to": "DINC_046_SP"
+    },
+    {
+      "OBJECTID": "49",
+      "label": "DINC_046_SP-DINC_047_SP",
+      "from": "DINC_046_SP",
+      "to": "DINC_047_SP"
+    },
+    {
+      "OBJECTID": "50",
+      "label": "DINC_013_SP-DINC_048_SP",
+      "from": "DINC_013_SP",
+      "to": "DINC_048_SP"
+    },
+    {
+      "OBJECTID": "51",
+      "label": "DINC_048_SP-DINC_049_SP",
+      "from": "DINC_048_SP",
+      "to": "DINC_049_SP"
+    },
+    {
+      "OBJECTID": "52",
+      "label": "DINC_049_SP-DINC_050_SP",
+      "from": "DINC_049_SP",
+      "to": "DINC_050_SP"
+    },
+    {
+      "OBJECTID": "53",
+      "label": "DINC_050_SP-DINC_051_SP",
+      "from": "DINC_050_SP",
+      "to": "DINC_051_SP"
+    },
+    {
+      "OBJECTID": "54",
+      "label": "DINC_051_SP-DINC_052_SP",
+      "from": "DINC_051_SP",
+      "to": "DINC_052_SP"
+    },
+    {
+      "OBJECTID": "55",
+      "label": "DINC_052_SP-DINC_053_SP",
+      "from": "DINC_052_SP",
+      "to": "DINC_053_SP"
+    },
+    {
+      "OBJECTID": "56",
+      "label": "DINC_053_SP-DINC_054_SP",
+      "from": "DINC_053_SP",
+      "to": "DINC_054_SP"
+    },
+    {
+      "OBJECTID": "57",
+      "label": "DINC_054_SP-DINC_055_SP",
+      "from": "DINC_054_SP",
+      "to": "DINC_055_SP"
+    },
+    {
+      "OBJECTID": "58",
+      "label": "DINC_055_SP-DINC_056_SP",
+      "from": "DINC_055_SP",
+      "to": "DINC_056_SP"
+    },
+    {
+      "OBJECTID": "59",
+      "label": "DINC_056_SP-DINC_057_SP",
+      "from": "DINC_056_SP",
+      "to": "DINC_057_SP"
+    },
+    {
+      "OBJECTID": "60",
+      "label": "DINC_014_SP-DINC_058_SP",
+      "from": "DINC_014_SP",
+      "to": "DINC_058_SP"
+    },
+    {
+      "OBJECTID": "61",
+      "label": "DINC_058_SP-DINC_059_SP",
+      "from": "DINC_058_SP",
+      "to": "DINC_059_SP"
+    },
+    {
+      "OBJECTID": "62",
+      "label": "DINC_059_SP-DINC_060_SP",
+      "from": "DINC_059_SP",
+      "to": "DINC_060_SP"
+    },
+    {
+      "OBJECTID": "63",
+      "label": "DINC_060_SP-DINC_061_SP",
+      "from": "DINC_060_SP",
+      "to": "DINC_061_SP"
+    },
+    {
+      "OBJECTID": "64",
+      "label": "DINC_061_SP-DINC_062_SP",
+      "from": "DINC_061_SP",
+      "to": "DINC_062_SP"
+    },
+    {
+      "OBJECTID": "65",
+      "label": "DINC_062_SP-DINC_063_SP",
+      "from": "DINC_062_SP",
+      "to": "DINC_063_SP"
+    },
+    {
+      "OBJECTID": "66",
+      "label": "DINC_063_SP-DINC_064_SP",
+      "from": "DINC_063_SP",
+      "to": "DINC_064_SP"
+    },
+    {
+      "OBJECTID": "67",
+      "label": "DINC_064_SP-DINC_065_SP",
+      "from": "DINC_064_SP",
+      "to": "DINC_065_SP"
+    },
+    {
+      "OBJECTID": "68",
+      "label": "DINC_015_SP-DINC_066_SP",
+      "from": "DINC_015_SP",
+      "to": "DINC_066_SP"
+    },
+    {
+      "OBJECTID": "69",
+      "label": "DINC_066_SP-DINC_067_SP",
+      "from": "DINC_066_SP",
+      "to": "DINC_067_SP"
+    },
+    {
+      "OBJECTID": "70",
+      "label": "DINC_067_SP-DINC_068_SP",
+      "from": "DINC_067_SP",
+      "to": "DINC_068_SP"
+    },
+    {
+      "OBJECTID": "71",
+      "label": "DINC_068_SP-DINC_069_SP",
+      "from": "DINC_068_SP",
+      "to": "DINC_069_SP"
+    },
+    {
+      "OBJECTID": "72",
+      "label": "DINC_069_SP-DINC_070_SP",
+      "from": "DINC_069_SP",
+      "to": "DINC_070_SP"
+    },
+    {
+      "OBJECTID": "73",
+      "label": "DINC_070_SP-DINC_071_SP",
+      "from": "DINC_070_SP",
+      "to": "DINC_071_SP"
+    },
+    {
+      "OBJECTID": "74",
+      "label": "DINC_071_SP-DINC_072_SP",
+      "from": "DINC_071_SP",
+      "to": "DINC_072_SP"
+    },
+    {
+      "OBJECTID": "75",
+      "label": "DINC_072_SP-DINC_073_SP",
+      "from": "DINC_072_SP",
+      "to": "DINC_073_SP"
+    },
+    {
+      "OBJECTID": "76",
+      "label": "DINC_016_SP-DINC_074_SP",
+      "from": "DINC_016_SP",
+      "to": "DINC_074_SP"
+    },
+    {
+      "OBJECTID": "77",
+      "label": "DINC_074_SP-DINC_075_SP",
+      "from": "DINC_074_SP",
+      "to": "DINC_075_SP"
+    },
+    {
+      "OBJECTID": "78",
+      "label": "DINC_075_SP-DINC_076_SP",
+      "from": "DINC_075_SP",
+      "to": "DINC_076_SP"
+    },
+    {
+      "OBJECTID": "79",
+      "label": "DINC_076_SP-DINC_077_SP",
+      "from": "DINC_076_SP",
+      "to": "DINC_077_SP"
+    },
+    {
+      "OBJECTID": "80",
+      "label": "DINC_077_SP-DINC_078_SP",
+      "from": "DINC_077_SP",
+      "to": "DINC_078_SP"
+    },
+    {
+      "OBJECTID": "81",
+      "label": "DINC_078_SP-DINC_079_SP",
+      "from": "DINC_078_SP",
+      "to": "DINC_079_SP"
+    },
+    {
+      "OBJECTID": "82",
+      "label": "DINC_079_SP-DINC_080_SP",
+      "from": "DINC_079_SP",
+      "to": "DINC_080_SP"
+    },
+    {
+      "OBJECTID": "83",
+      "label": "DINC_080_SP-DINC_081_SP",
+      "from": "DINC_080_SP",
+      "to": "DINC_081_SP"
+    },
+    {
+      "OBJECTID": "84",
+      "label": "DINC_081_SP-DINC_082_SP",
+      "from": "DINC_081_SP",
+      "to": "DINC_082_SP"
+    },
+    {
+      "OBJECTID": "85",
+      "label": "DINC_082_SP-DINC_083_SP",
+      "from": "DINC_082_SP",
+      "to": "DINC_083_SP"
+    },
+    {
+      "OBJECTID": "86",
+      "label": "DINC_017_SP-DINC_084_SP",
+      "from": "DINC_017_SP",
+      "to": "DINC_084_SP"
+    },
+    {
+      "OBJECTID": "87",
+      "label": "DINC_084_SP-DINC_085_SP",
+      "from": "DINC_084_SP",
+      "to": "DINC_085_SP"
+    },
+    {
+      "OBJECTID": "88",
+      "label": "DINC_085_SP-DINC_086_SP",
+      "from": "DINC_085_SP",
+      "to": "DINC_086_SP"
+    },
+    {
+      "OBJECTID": "89",
+      "label": "DINC_086_SP-DINC_087_SP",
+      "from": "DINC_086_SP",
+      "to": "DINC_087_SP"
+    },
+    {
+      "OBJECTID": "90",
+      "label": "DINC_087_SP-DINC_088_SP",
+      "from": "DINC_087_SP",
+      "to": "DINC_088_SP"
+    },
+    {
+      "OBJECTID": "91",
+      "label": "DINC_088_SP-DINC_089_SP",
+      "from": "DINC_088_SP",
+      "to": "DINC_089_SP"
+    },
+    {
+      "OBJECTID": "92",
+      "label": "DINC_018_SP-DINC_090_SP",
+      "from": "DINC_018_SP",
+      "to": "DINC_090_SP"
+    },
+    {
+      "OBJECTID": "93",
+      "label": "DINC_090_SP-DINC_091_SP",
+      "from": "DINC_090_SP",
+      "to": "DINC_091_SP"
+    },
+    {
+      "OBJECTID": "94",
+      "label": "DINC_091_SP-DINC_092_SP",
+      "from": "DINC_091_SP",
+      "to": "DINC_092_SP"
+    },
+    {
+      "OBJECTID": "95",
+      "label": "DINC_092_SP-DINC_093_SP",
+      "from": "DINC_092_SP",
+      "to": "DINC_093_SP"
+    },
+    {
+      "OBJECTID": "96",
+      "label": "DINC_093_SP-DINC_094_SP",
+      "from": "DINC_093_SP",
+      "to": "DINC_094_SP"
+    },
+    {
+      "OBJECTID": "97",
+      "label": "DINC_094_SP-DINC_095_SP",
+      "from": "DINC_094_SP",
+      "to": "DINC_095_SP"
+    },
+    {
+      "OBJECTID": "98",
+      "label": "DINC_095_SP-DINC_096_SP",
+      "from": "DINC_095_SP",
+      "to": "DINC_096_SP"
+    },
+    {
+      "OBJECTID": "99",
+      "label": "DINC_096_SP-DINC_097_SP",
+      "from": "DINC_096_SP",
+      "to": "DINC_097_SP"
+    },
+    {
+      "OBJECTID": "100",
+      "label": "DINC_019_SP-DINC_098_SP",
+      "from": "DINC_019_SP",
+      "to": "DINC_098_SP"
+    },
+    {
+      "OBJECTID": "101",
+      "label": "DINC_098_SP-DINC_099_SP",
+      "from": "DINC_098_SP",
+      "to": "DINC_099_SP"
+    },
+    {
+      "OBJECTID": "103",
+      "label": "DINC_103_PT-DINC_058_SP",
+      "from": "DINC_103_PT",
+      "to": "DINC_058_SP"
+    },
+    {
+      "OBJECTID": "103",
+      "label": "DINC_020_SP-DINC_037_SP",
+      "from": "DINC_020_SP",
+      "to": "DINC_037_SP"
+    },
+    {
+      "OBJECTID": "104",
+      "label": "DINC_025_SP-DINC_073_SP",
+      "from": "DINC_025_SP",
+      "to": "DINC_073_SP"
+    },
+    {
+      "OBJECTID": "105",
+      "label": "DINC_027_SP-DINC_057_SP",
+      "from": "DINC_027_SP",
+      "to": "DINC_057_SP"
+    },
+    {
+      "OBJECTID": "106",
+      "label": "DINC_027_SP-DINC_100_PT",
+      "from": "DINC_027_SP",
+      "to": "DINC_100_PT"
+    }
+  ],
+  "optical_tap": [
+    {
+      "OBJECTID": "1",
+      "enc_type": "6",
+      "label": "12102010_T0534",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "2",
+      "enc_type": "6",
+      "label": "12102010_T0825",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "3",
+      "enc_type": "6",
+      "label": "12102010_T0648",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "4",
+      "enc_type": "6",
+      "label": "12102010_T1145",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "5",
+      "enc_type": "6",
+      "label": "12102010_T1234",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "6",
+      "enc_type": "6",
+      "label": "12102010_T1435",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "7",
+      "enc_type": "6",
+      "label": "12102010_T0938",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "8",
+      "enc_type": "6",
+      "label": "12102010_T0923",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "9",
+      "enc_type": "6",
+      "label": "12102010_T1556",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "10",
+      "enc_type": "6",
+      "label": "12102010_T1647",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "11",
+      "enc_type": "6",
+      "label": "12102010_T1738",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "12",
+      "enc_type": "6",
+      "label": "12102010_T1829",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "13",
+      "enc_type": "6",
+      "label": "12102010_T1920",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "14",
+      "enc_type": "6",
+      "label": "12102010_T2011",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "15",
+      "enc_type": "6",
+      "label": "12102010_T2102",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "16",
+      "enc_type": "6",
+      "label": "12102010_T2253",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "17",
+      "enc_type": "6",
+      "label": "12102010_T2344",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "18",
+      "enc_type": "6",
+      "label": "12102010_T2435",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "19",
+      "enc_type": "6",
+      "label": "12102010_T2526",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "20",
+      "enc_type": "6",
+      "label": "12102010_T2617",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "21",
+      "enc_type": "6",
+      "label": "12102010_T2708",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "22",
+      "enc_type": "6",
+      "label": "12102010_T2859",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "23",
+      "enc_type": "6",
+      "label": "12102010_T2940",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "24",
+      "enc_type": "6",
+      "label": "12102010_T3021",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "25",
+      "enc_type": "6",
+      "label": "12102010_T3112",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "26",
+      "enc_type": "6",
+      "label": "12102010_T3203",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "27",
+      "enc_type": "6",
+      "label": "12102010_T3354",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "28",
+      "enc_type": "6",
+      "label": "12102010_T3445",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "29",
+      "enc_type": "6",
+      "label": "12102010_T3536",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "30",
+      "enc_type": "6",
+      "label": "12102010_T3627",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "31",
+      "enc_type": "6",
+      "label": "12102010_T3718",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "32",
+      "enc_type": "6",
+      "label": "12102010_T3809",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "33",
+      "enc_type": "6",
+      "label": "12102010_T3950",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "34",
+      "enc_type": "6",
+      "label": "12102010_T4041",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "35",
+      "enc_type": "6",
+      "label": "12102010_T4132",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "36",
+      "enc_type": "6",
+      "label": "12102010_T4223",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "37",
+      "enc_type": "6",
+      "label": "12102010_T4314",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "38",
+      "enc_type": "6",
+      "label": "12102010_T4405",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "39",
+      "enc_type": "6",
+      "label": "12102010_T4556",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "40",
+      "enc_type": "6",
+      "label": "12102010_T4647",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "41",
+      "enc_type": "6",
+      "label": "12102010_T4738",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "42",
+      "enc_type": "6",
+      "label": "12102010_T4829",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "43",
+      "enc_type": "6",
+      "label": "12102010_T4920",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "44",
+      "enc_type": "6",
+      "label": "12102010_T5011",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "45",
+      "enc_type": "6",
+      "label": "12102010_T5102",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "46",
+      "enc_type": "6",
+      "label": "12102010_T5253",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "47",
+      "enc_type": "6",
+      "label": "12102010_T5344",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "48",
+      "enc_type": "6",
+      "label": "12102010_T5435",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "49",
+      "enc_type": "6",
+      "label": "12102010_T5526",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "50",
+      "enc_type": "6",
+      "label": "12102010_T5617",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "51",
+      "enc_type": "6",
+      "label": "12102010_T5708",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "52",
+      "enc_type": "6",
+      "label": "12102010_T5859",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "53",
+      "enc_type": "6",
+      "label": "12102010_T5940",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "54",
+      "enc_type": "6",
+      "label": "12102010_T6021",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "55",
+      "enc_type": "6",
+      "label": "12102010_T6112",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "56",
+      "enc_type": "6",
+      "label": "12102010_T6203",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "57",
+      "enc_type": "6",
+      "label": "12102010_T6354",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "58",
+      "enc_type": "6",
+      "label": "12102010_T6445",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "59",
+      "enc_type": "6",
+      "label": "12102010_T6536",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "60",
+      "enc_type": "6",
+      "label": "12102010_T6627",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "61",
+      "enc_type": "6",
+      "label": "12102010_T6718",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "62",
+      "enc_type": "6",
+      "label": "12102010_T6809",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "63",
+      "enc_type": "6",
+      "label": "12102010_T6950",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "64",
+      "enc_type": "6",
+      "label": "12102010_T7041",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "65",
+      "enc_type": "6",
+      "label": "12102010_T7132",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "66",
+      "enc_type": "6",
+      "label": "12102010_T7223",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "67",
+      "enc_type": "6",
+      "label": "12102010_T7314",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "68",
+      "enc_type": "6",
+      "label": "12102010_T7405",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "69",
+      "enc_type": "6",
+      "label": "12102010_T7556",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "70",
+      "enc_type": "6",
+      "label": "12102010_T7647",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "71",
+      "enc_type": "6",
+      "label": "12102010_T7738",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "72",
+      "enc_type": "6",
+      "label": "12102010_T7829",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "73",
+      "enc_type": "6",
+      "label": "12102010_T7920",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "74",
+      "enc_type": "6",
+      "label": "12102010_T8011",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "75",
+      "enc_type": "6",
+      "label": "12102010_T8102",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "76",
+      "enc_type": "6",
+      "label": "12102010_T8253",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "77",
+      "enc_type": "6",
+      "label": "12102010_T8344",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "78",
+      "enc_type": "6",
+      "label": "12102010_T8435",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "79",
+      "enc_type": "6",
+      "label": "12102010_T8526",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "80",
+      "enc_type": "6",
+      "label": "12102010_T8617",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "81",
+      "enc_type": "6",
+      "label": "12102010_T8708",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "82",
+      "enc_type": "6",
+      "label": "12102010_T8859",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "83",
+      "enc_type": "6",
+      "label": "12102010_T8940",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "84",
+      "enc_type": "6",
+      "label": "12102010_T9021",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "85",
+      "enc_type": "6",
+      "label": "12102010_T9112",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "86",
+      "enc_type": "6",
+      "label": "12102010_T9203",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "87",
+      "enc_type": "6",
+      "label": "12102010_T9354",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "88",
+      "enc_type": "6",
+      "label": "12102010_T9445",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "89",
+      "enc_type": "6",
+      "label": "12102010_T9536",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "90",
+      "enc_type": "6",
+      "label": "12102010_T9627",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "91",
+      "enc_type": "6",
+      "label": "12102010_T9718",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "92",
+      "enc_type": "6",
+      "label": "12102010_T9809",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "93",
+      "enc_type": "6",
+      "label": "12102010_T9950",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "94",
+      "enc_type": "6",
+      "label": "12102010_TA041",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "95",
+      "enc_type": "6",
+      "label": "12102010_TA132",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "96",
+      "enc_type": "6",
+      "label": "12102010_TA223",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "97",
+      "enc_type": "6",
+      "label": "12102010_TA314",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "98",
+      "enc_type": "6",
+      "label": "12102010_TA405",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "99",
+      "enc_type": "6",
+      "label": "12102010_TA556",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "100",
+      "enc_type": "6",
+      "label": "12102010_TA647",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "101",
+      "enc_type": "6",
+      "label": "12102010_TA738",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "102",
+      "enc_type": "6",
+      "label": "12102010_TA829",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "103",
+      "enc_type": "6",
+      "label": "12102010_TA920",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "104",
+      "enc_type": "6",
+      "label": "12102010_TB011",
+      "olt_name": "210"
+    }
+  ],
+  "fibre_cables": [
+    {
+      "OBJECTID": "1",
+      "label": "4720/4720-1-01",
+      "from": "4720",
+      "to": "4720-1-01"
+    },
+    {
+      "OBJECTID": "2",
+      "label": "4720/4720-1-02",
+      "from": "4720",
+      "to": "4720-1-02"
+    },
+    {
+      "OBJECTID": "3",
+      "label": "4720/4720-1-03",
+      "from": "4720",
+      "to": "4720-1-03"
+    },
+    {
+      "OBJECTID": "4",
+      "label": "12102010_C8386",
+      "from": "DINC_210_TRO07",
+      "to": "12102010_T0534"
+    },
+    {
+      "OBJECTID": "5",
+      "label": "12102010_C8381",
+      "from": "12102010_T0534",
+      "to": "12102010_T0825"
+    },
+    {
+      "OBJECTID": "6",
+      "label": "12102010_C8384",
+      "from": "12102010_T0825",
+      "to": "12102010_T0648"
+    },
+    {
+      "OBJECTID": "7",
+      "label": "12102010_C8369",
+      "from": "12102010_T0648",
+      "to": "12102010_T1145"
+    },
+    {
+      "OBJECTID": "8",
+      "label": "12102010_C8374",
+      "from": "12102010_T1145",
+      "to": "12102010_T0938"
+    },
+    {
+      "OBJECTID": "9",
+      "label": "12102010_C8351",
+      "from": "12102010_T1145",
+      "to": "12102010_T1234"
+    },
+    {
+      "OBJECTID": "10",
+      "label": "12102010_C8344",
+      "from": "12102010_T1234",
+      "to": "12102010_T1435"
+    },
+    {
+      "OBJECTID": "11",
+      "label": "12102010_C8377",
+      "from": "12102010_T0938",
+      "to": "12102010_T0923"
+    },
+    {
+      "OBJECTID": "12",
+      "label": "12102010_C8401",
+      "from": "12102010_T0923",
+      "to": "12102010_T1556"
+    },
+    {
+      "OBJECTID": "13",
+      "label": "12102010_C8412",
+      "from": "12102010_T1556",
+      "to": "12102010_T1647"
+    },
+    {
+      "OBJECTID": "14",
+      "label": "12102010_C8423",
+      "from": "12102010_T1647",
+      "to": "12102010_T1738"
+    },
+    {
+      "OBJECTID": "15",
+      "label": "12102010_C8434",
+      "from": "12102010_T1738",
+      "to": "12102010_T1829"
+    },
+    {
+      "OBJECTID": "16",
+      "label": "12102010_C8445",
+      "from": "12102010_T1829",
+      "to": "12102010_T1920"
+    },
+    {
+      "OBJECTID": "17",
+      "label": "12102010_C8456",
+      "from": "12102010_T1920",
+      "to": "12102010_T2011"
+    },
+    {
+      "OBJECTID": "18",
+      "label": "12102010_C8467",
+      "from": "12102010_T2011",
+      "to": "12102010_T2102"
+    },
+    {
+      "OBJECTID": "19",
+      "label": "12102010_C8478",
+      "from": "12102010_T2102",
+      "to": "12102010_T2253"
+    },
+    {
+      "OBJECTID": "20",
+      "label": "12102010_C8489",
+      "from": "12102010_T2253",
+      "to": "12102010_T2344"
+    },
+    {
+      "OBJECTID": "21",
+      "label": "12102010_C8490",
+      "from": "12102010_T2344",
+      "to": "12102010_T2435"
+    },
+    {
+      "OBJECTID": "22",
+      "label": "12102010_C8501",
+      "from": "12102010_T2435",
+      "to": "12102010_T2526"
+    },
+    {
+      "OBJECTID": "23",
+      "label": "12102010_C8512",
+      "from": "12102010_T2526",
+      "to": "12102010_T2617"
+    },
+    {
+      "OBJECTID": "24",
+      "label": "12102010_C8523",
+      "from": "12102010_T2617",
+      "to": "12102010_T2708"
+    },
+    {
+      "OBJECTID": "25",
+      "label": "12102010_C8534",
+      "from": "12102010_T2708",
+      "to": "12102010_T2859"
+    },
+    {
+      "OBJECTID": "26",
+      "label": "12102010_C8545",
+      "from": "12102010_T2859",
+      "to": "12102010_T2940"
+    },
+    {
+      "OBJECTID": "27",
+      "label": "12102010_C8556",
+      "from": "12102010_T2940",
+      "to": "12102010_T3021"
+    },
+    {
+      "OBJECTID": "28",
+      "label": "12102010_C8567",
+      "from": "12102010_T3021",
+      "to": "12102010_T3112"
+    },
+    {
+      "OBJECTID": "29",
+      "label": "12102010_C8578",
+      "from": "12102010_T3112",
+      "to": "12102010_T3203"
+    },
+    {
+      "OBJECTID": "30",
+      "label": "12102010_C8589",
+      "from": "12102010_T3203",
+      "to": "12102010_T3354"
+    },
+    {
+      "OBJECTID": "31",
+      "label": "12102010_C8590",
+      "from": "12102010_T3354",
+      "to": "12102010_T3445"
+    },
+    {
+      "OBJECTID": "32",
+      "label": "12102010_C8601",
+      "from": "12102010_T3445",
+      "to": "12102010_T3536"
+    },
+    {
+      "OBJECTID": "33",
+      "label": "12102010_C8612",
+      "from": "12102010_T3536",
+      "to": "12102010_T3627"
+    },
+    {
+      "OBJECTID": "34",
+      "label": "12102010_C8623",
+      "from": "12102010_T3627",
+      "to": "12102010_T3718"
+    },
+    {
+      "OBJECTID": "35",
+      "label": "12102010_C8634",
+      "from": "12102010_T3718",
+      "to": "12102010_T3809"
+    },
+    {
+      "OBJECTID": "36",
+      "label": "12102010_C8645",
+      "from": "12102010_T3809",
+      "to": "12102010_T3950"
+    },
+    {
+      "OBJECTID": "37",
+      "label": "12102010_C8656",
+      "from": "12102010_T3950",
+      "to": "12102010_T4041"
+    },
+    {
+      "OBJECTID": "38",
+      "label": "12102010_C8667",
+      "from": "12102010_T4041",
+      "to": "12102010_T4132"
+    },
+    {
+      "OBJECTID": "39",
+      "label": "12102010_C8678",
+      "from": "12102010_T4132",
+      "to": "12102010_T4223"
+    },
+    {
+      "OBJECTID": "40",
+      "label": "12102010_C8689",
+      "from": "12102010_T4223",
+      "to": "12102010_T4314"
+    },
+    {
+      "OBJECTID": "41",
+      "label": "12102010_C8690",
+      "from": "12102010_T4314",
+      "to": "12102010_T4405"
+    },
+    {
+      "OBJECTID": "42",
+      "label": "12102010_C8701",
+      "from": "12102010_T4405",
+      "to": "12102010_T4556"
+    },
+    {
+      "OBJECTID": "43",
+      "label": "12102010_C8712",
+      "from": "12102010_T4556",
+      "to": "12102010_T4647"
+    },
+    {
+      "OBJECTID": "44",
+      "label": "12102010_C8723",
+      "from": "12102010_T4647",
+      "to": "12102010_T4738"
+    },
+    {
+      "OBJECTID": "45",
+      "label": "12102010_C8734",
+      "from": "12102010_T4738",
+      "to": "12102010_T4829"
+    },
+    {
+      "OBJECTID": "46",
+      "label": "12102010_C8745",
+      "from": "12102010_T4829",
+      "to": "12102010_T4920"
+    },
+    {
+      "OBJECTID": "47",
+      "label": "12102010_C8756",
+      "from": "12102010_T4920",
+      "to": "12102010_T5011"
+    },
+    {
+      "OBJECTID": "48",
+      "label": "12102010_C8767",
+      "from": "12102010_T5011",
+      "to": "12102010_T5102"
+    },
+    {
+      "OBJECTID": "49",
+      "label": "12102010_C8778",
+      "from": "12102010_T5102",
+      "to": "12102010_T5253"
+    }
+  ]
+}

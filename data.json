@@ -1,0 +1,514 @@
+{
+  "splice_closures": [
+    {
+      "OBJECTID": "1",
+      "enc_type": "5",
+      "label": "DINC_000_PT",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "2",
+      "enc_type": "3",
+      "label": "DINC_001_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "3",
+      "enc_type": "3",
+      "label": "DINC_002_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "4",
+      "enc_type": "3",
+      "label": "DINC_003_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "5",
+      "enc_type": "3",
+      "label": "DINC_004_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "6",
+      "enc_type": "3",
+      "label": "DINC_005_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "7",
+      "enc_type": "3",
+      "label": "DINC_006_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "8",
+      "enc_type": "3",
+      "label": "DINC_007_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "9",
+      "enc_type": "3",
+      "label": "DINC_008_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "10",
+      "enc_type": "3",
+      "label": "DINC_009_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "11",
+      "enc_type": "3",
+      "label": "DINC_010_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "12",
+      "enc_type": "3",
+      "label": "DINC_011_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "13",
+      "enc_type": "3",
+      "label": "DINC_012_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "14",
+      "enc_type": "3",
+      "label": "DINC_013_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "15",
+      "enc_type": "3",
+      "label": "DINC_014_SP",
+      "olt_name": "014"
+    },
+    {
+      "OBJECTID": "16",
+      "enc_type": "3",
+      "label": "DINC_015_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "17",
+      "enc_type": "3",
+      "label": "DINC_016_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "18",
+      "enc_type": "3",
+      "label": "DINC_017_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "19",
+      "enc_type": "3",
+      "label": "DINC_018_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "20",
+      "enc_type": "3",
+      "label": "DINC_019_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "21",
+      "enc_type": "3",
+      "label": "DINC_020_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "22",
+      "enc_type": "3",
+      "label": "DINC_021_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "23",
+      "enc_type": "3",
+      "label": "DINC_022_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "24",
+      "enc_type": "3",
+      "label": "DINC_023_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "25",
+      "enc_type": "3",
+      "label": "DINC_024_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "26",
+      "enc_type": "3",
+      "label": "DINC_025_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "27",
+      "enc_type": "3",
+      "label": "DINC_026_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "28",
+      "enc_type": "3",
+      "label": "DINC_027_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "29",
+      "enc_type": "3",
+      "label": "DINC_028_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "30",
+      "enc_type": "3",
+      "label": "DINC_029_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "31",
+      "enc_type": "3",
+      "label": "DINC_030_SP",
+      "olt_name": "210"
+    },
+    {
+      "OBJECTID": "32",
+      "enc_type": "3",
+      "label": "4720",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "33",
+      "enc_type": "3",
+      "label": "DINC_210_TRO07",
+      "olt_name": "209"
+    }
+  ],
+  "feeder_cables": [
+    {
+      "OBJECTID": "1",
+      "label": "DINC_000_PT-DINC_001_SP",
+      "from": "DINC_000_PT",
+      "to": "DINC_001_SP"
+    },
+    {
+      "OBJECTID": "2",
+      "label": "DINC_001_SP-DINC_002_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_002_SP"
+    },
+    {
+      "OBJECTID": "3",
+      "label": "DINC_002_SP-DINC_003_SP",
+      "from": "DINC_002_SP",
+      "to": "DINC_003_SP"
+    },
+    {
+      "OBJECTID": "4",
+      "label": "DINC_001_SP-DINC_004_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_004_SP"
+    },
+    {
+      "OBJECTID": "5",
+      "label": "DINC_004_SP-DINC_005_SP",
+      "from": "DINC_004_SP",
+      "to": "DINC_005_SP"
+    },
+    {
+      "OBJECTID": "6",
+      "label": "DINC_005_SP-DINC_006_SP",
+      "from": "DINC_005_SP",
+      "to": "DINC_006_SP"
+    },
+    {
+      "OBJECTID": "7",
+      "label": "DINC_001_SP-DINC_007_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_007_SP"
+    },
+    {
+      "OBJECTID": "8",
+      "label": "DINC_007_SP-DINC_008_SP",
+      "from": "DINC_007_SP",
+      "to": "DINC_008_SP"
+    },
+    {
+      "OBJECTID": "9",
+      "label": "DINC_007_SP-DINC_009_SP",
+      "from": "DINC_007_SP",
+      "to": "DINC_009_SP"
+    },
+    {
+      "OBJECTID": "10",
+      "label": "DINC_001_SP-DINC_010_SP",
+      "from": "DINC_001_SP",
+      "to": "DINC_010_SP"
+    },
+    {
+      "OBJECTID": "11",
+      "label": "DINC_010_SP-DINC_011_SP",
+      "from": "DINC_010_SP",
+      "to": "DINC_011_SP"
+    },
+    {
+      "OBJECTID": "12",
+      "label": "DINC_011_SP-DINC_012_SP",
+      "from": "DINC_011_SP",
+      "to": "DINC_012_SP"
+    },
+    {
+      "OBJECTID": "13",
+      "label": "DINC_003_SP-DINC_013_SP",
+      "from": "DINC_003_SP",
+      "to": "DINC_013_SP"
+    },
+    {
+      "OBJECTID": "14",
+      "label": "DINC_003_SP-DINC_014_SP",
+      "from": "DINC_003_SP",
+      "to": "DINC_014_SP"
+    },
+    {
+      "OBJECTID": "15",
+      "label": "DINC_003_SP-DINC_015_SP",
+      "from": "DINC_003_SP",
+      "to": "DINC_015_SP"
+    },
+    {
+      "OBJECTID": "16",
+      "label": "DINC_005_SP-DINC_016_SP",
+      "from": "DINC_005_SP",
+      "to": "DINC_016_SP"
+    },
+    {
+      "OBJECTID": "17",
+      "label": "DINC_005_SP-DINC_017_SP",
+      "from": "DINC_005_SP",
+      "to": "DINC_017_SP"
+    },
+    {
+      "OBJECTID": "18",
+      "label": "DINC_007_SP-DINC_018_SP",
+      "from": "DINC_007_SP",
+      "to": "DINC_018_SP"
+    },
+    {
+      "OBJECTID": "19",
+      "label": "DINC_008_SP-DINC_019_SP",
+      "from": "DINC_008_SP",
+      "to": "DINC_019_SP"
+    },
+    {
+      "OBJECTID": "20",
+      "label": "DINC_008_SP-DINC_020_SP",
+      "from": "DINC_008_SP",
+      "to": "DINC_020_SP"
+    },
+    {
+      "OBJECTID": "21",
+      "label": "DINC_008_SP-DINC_021_SP",
+      "from": "DINC_008_SP",
+      "to": "DINC_021_SP"
+    },
+    {
+      "OBJECTID": "22",
+      "label": "DINC_021_SP-DINC_022_SP",
+      "from": "DINC_021_SP",
+      "to": "DINC_022_SP"
+    },
+    {
+      "OBJECTID": "23",
+      "label": "DINC_022_SP-DINC_023_SP",
+      "from": "DINC_022_SP",
+      "to": "DINC_023_SP"
+    },
+    {
+      "OBJECTID": "24",
+      "label": "DINC_023_SP-DINC_024_SP",
+      "from": "DINC_023_SP",
+      "to": "DINC_024_SP"
+    },
+    {
+      "OBJECTID": "25",
+      "label": "DINC_024_SP-DINC_025_SP",
+      "from": "DINC_024_SP",
+      "to": "DINC_025_SP"
+    },
+    {
+      "OBJECTID": "26",
+      "label": "DINC_004_SP-DINC_026_SP",
+      "from": "DINC_004_SP",
+      "to": "DINC_026_SP"
+    },
+    {
+      "OBJECTID": "27",
+      "label": "DINC_026_SP-DINC_027_SP",
+      "from": "DINC_026_SP",
+      "to": "DINC_027_SP"
+    },
+    {
+      "OBJECTID": "28",
+      "label": "DINC_004_SP-DINC_028_SP",
+      "from": "DINC_004_SP",
+      "to": "DINC_028_SP"
+    },
+    {
+      "OBJECTID": "29",
+      "label": "DINC_028_SP-DINC_029_SP",
+      "from": "DINC_028_SP",
+      "to": "DINC_029_SP"
+    },
+    {
+      "OBJECTID": "30",
+      "label": "DINC_028_SP-DINC_030_SP",
+      "from": "DINC_028_SP",
+      "to": "DINC_030_SP"
+    },
+    {
+      "OBJECTID": "31",
+      "label": "DINC_000_PT-4720",
+      "from": "DINC_000_PT",
+      "to": "4720"
+    },
+    {
+      "OBJECTID": "31",
+      "label": "DINC_000_PT-DINC_210_TRO07",
+      "from": "DINC_000_PT",
+      "to": "DINC_210_TRO07"
+    }
+  ],
+  "optical_tap": [
+    {
+      "OBJECTID": "1",
+      "enc_type": "6",
+      "label": "12102010_T0534",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "2",
+      "enc_type": "6",
+      "label": "12102010_T0825",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "3",
+      "enc_type": "6",
+      "label": "12102010_T0648",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "4",
+      "enc_type": "6",
+      "label": "12102010_T1145",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "5",
+      "enc_type": "6",
+      "label": "12102010_T1234",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "5",
+      "enc_type": "6",
+      "label": "12102010_T1435",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "6",
+      "enc_type": "6",
+      "label": "12102010_T0938",
+      "olt_name": "209"
+    },
+    {
+      "OBJECTID": "7",
+      "enc_type": "6",
+      "label": "12102010_T0923",
+      "olt_name": "209"
+    }
+  ],
+  "fibre_cables": [
+    {
+      "OBJECTID": "1",
+      "label": "4720/4720-1-01",
+      "from": "4720",
+      "to": "4720-1-01"
+    },
+    {
+      "OBJECTID": "2",
+      "label": "4720/4720-1-02",
+      "from": "4720",
+      "to": "4720-1-02"
+    },
+    {
+      "OBJECTID": "3",
+      "label": "4720/4720-1-03",
+      "from": "4720",
+      "to": "4720-1-03"
+    },
+    {
+      "OBJECTID": "4",
+      "label": "12102010_C8386",
+      "from": "DINC_210_TRO07",
+      "to": "12102010_T0534"
+    },
+    {
+      "OBJECTID": "5",
+      "label": "12102010_C8381",
+      "from": "12102010_T0534",
+      "to": "12102010_T0825"
+    },
+    {
+      "OBJECTID": "6",
+      "label": "12102010_C8384",
+      "from": "12102010_T0825",
+      "to": "12102010_T0648"
+    },
+    {
+      "OBJECTID": "7",
+      "label": "12102010_C8369",
+      "from": "12102010_T0648",
+      "to": "12102010_T1145"
+    },
+    {
+      "OBJECTID": "8",
+      "label": "12102010_C8374",
+      "from": "12102010_T1145",
+      "to": "12102010_T0938"
+    },
+    {
+      "OBJECTID": "9",
+      "label": "12102010_C8351",
+      "from": "12102010_T1145",
+      "to": "12102010_T1234"
+    },
+    {
+      "OBJECTID": "10",
+      "label": "12102010_C8344",
+      "from": "12102010_T1234",
+      "to": "12102010_T1435"
+    },
+    {
+      "OBJECTID": "11",
+      "label": "12102010_C8377",
+      "from": "12102010_T0938",
+      "to": "12102010_T0923"
+    }
+  ]
+}

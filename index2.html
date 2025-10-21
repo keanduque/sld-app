@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Feeder & Fibre Network Visualization</title>
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"
+    ></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      h2 {
+        margin-top: 40px;
+      }
+      .network {
+        width: 100%;
+        height: 400px;
+        border: 1px solid lightgray;
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>SLD Network Visualization</h1>
+
+    <h2>1️⃣ Feeder Network (Splice Closures + Feeder Cables)</h2>
+    <div id="feederNetwork" class="network"></div>
+
+    <h2>2️⃣ Fibre Network (Optical Taps + Fibre Cables)</h2>
+    <div id="fibreNetwork" class="network"></div>
+
+    <script>
+      async function createNetworks() {
+        try {
+          const response = await fetch("data2.json");
+          if (!response.ok)
+            throw new Error(`HTTP error! Status: ${response.status}`);
+
+          const data = await response.json();
+
+          const spliceClosures = data.splice_closures || [];
+          const feederCables = data.feeder_cables || [];
+          const opticalTaps = data.optical_tap || [];
+          const fibreCables = data.fibre_cables || [];
+
+          // ---------- FEEDER NETWORK ----------
+          const feederNodes = spliceClosures.map((item) => ({
+            id: item.label,
+            label: item.label,
+            group: item.enc_type === "5" ? "OLT" : "SP",
+            title: `Type: Splice Closure\nenc_type: ${item.enc_type}\nOLT: ${item.olt_name}`,
+          }));
+
+          const feederEdges = feederCables.map((cable) => ({
+            from: cable.from,
+            to: cable.to,
+            label: cable.label,
+            color: { color: "#7F8C8D" },
+          }));
+
+          const feederContainer = document.getElementById("feederNetwork");
+          const feederData = {
+            nodes: new vis.DataSet(feederNodes),
+            edges: new vis.DataSet(feederEdges),
+          };
+
+          const commonOptions = {
+            edges: {
+              arrows: "to",
+              font: { align: "middle", size: 10 },
+              //smooth: { type: "dynamic" },
+            },
+            layout: {
+              hierarchical: {
+                direction: "LR",
+                sortMethod: "directed",
+                shakeTowards: "roots",
+                levelSeparation: 250,
+                nodeSpacing: 100,
+              },
+            },
+            physics: true,
+            groups: {
+              OLT: { color: { background: "#FFA500" }, shape: "box" },
+              SP: { color: { background: "#ADD8E6" }, shape: "ellipse" },
+              OT: { color: { background: "#90EE90" }, shape: "triangle" },
+              FibreEnd: { color: { background: "#D3D3D3" }, shape: "dot" },
+            },
+          };
+
+          new vis.Network(feederContainer, feederData, commonOptions);
+
+          // ---------- FIBRE NETWORK ----------
+          const fibreNodes = [];
+
+          // Optical taps
+          opticalTaps.forEach((tap) => {
+            fibreNodes.push({
+              id: tap.label,
+              label: tap.label,
+              group: "OT",
+              title: `Type: Optical Tap\nOLT: ${tap.olt_name}`,
+            });
+          });
+
+          // Auto-add fibre endpoints if not in taps
+          fibreCables.forEach((fibre) => {
+            if (!fibreNodes.find((n) => n.id === fibre.from)) {
+              fibreNodes.push({
+                id: fibre.from,
+                label: fibre.from,
+                group: "FibreEnd",
+              });
+            }
+            if (!fibreNodes.find((n) => n.id === fibre.to)) {
+              fibreNodes.push({
+                id: fibre.to,
+                label: fibre.to,
+                group: "FibreEnd",
+              });
+            }
+          });
+
+          const fibreEdges = fibreCables.map((fibre) => ({
+            from: fibre.from,
+            to: fibre.to,
+            label: fibre.label,
+            color: { color: "#3498DB" },
+            dashes: true,
+          }));
+
+          const fibreContainer = document.getElementById("fibreNetwork");
+          const fibreData = {
+            nodes: new vis.DataSet(fibreNodes),
+            edges: new vis.DataSet(fibreEdges),
+          };
+
+          new vis.Network(fibreContainer, fibreData, commonOptions);
+
+          console.log("✅ Both networks created successfully!");
+        } catch (err) {
+          console.error("❌ Error creating networks:", err);
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", createNetworks);
+    </script>
+  </body>
+</html>
